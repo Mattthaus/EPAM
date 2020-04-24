@@ -1,0 +1,16 @@
+3
+Airlines1
+Minsk
+2
+Boeing 737
+Boeing 777
+Airlines2
+Paris
+3
+Boeing 737
+Boeing 777
+Airbus A300
+Airlines3
+London
+1
+Boeing 737

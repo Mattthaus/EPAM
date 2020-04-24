@@ -1,0 +1,30 @@
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines3', aircraftList=1, location='London'}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 777', price=4000, capacity=150, stores=2}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Airbus A300', price=1000, capacity=400, stores=1}
+2020-04-24 02:07:03 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines3', aircraftList=1, location='London'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 777', price=4000, capacity=150, stores=2}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Airbus A300', price=1000, capacity=400, stores=1}
+2020-04-24 02:10:16 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 737', price=3000, capacity=300, stores=3}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines3', aircraftList=1, location='London'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Boeing 777', price=4000, capacity=150, stores=2}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines1', aircraftList=2, location='Minsk'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Aircraft{name='Airbus A300', price=1000, capacity=400, stores=1}
+2020-04-24 11:49:45 [main] INFO  by.epam.lab3.service.Filter - Owner{name='Airlines2', aircraftList=3, location='Paris'}
