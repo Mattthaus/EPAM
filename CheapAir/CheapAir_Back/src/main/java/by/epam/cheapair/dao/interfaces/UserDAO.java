@@ -1,0 +1,19 @@
+package by.epam.cheapair.dao.interfaces;
+
+import by.epam.cheapair.persistence.domain.User;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.Optional;
+
+public interface UserDAO {
+    Optional<User> get(Integer id);
+    Optional<User> get(String login);
+    ArrayList<User> getAll();
+    void createUser(User user);
+    void updateUser(User user);
+    void deleteUser(User user);
+    void deleteUser(String login) throws SQLException;
+    void deleteUser(Integer id) throws SQLException;
+    void deleteUserFixture();
+}
